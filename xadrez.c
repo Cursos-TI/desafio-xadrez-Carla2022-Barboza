@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   
+ // novo comit  
 // Bispo Mover 5 Casas para Diagonal Direita
 int i = 1;
 
